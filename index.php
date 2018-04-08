@@ -8,7 +8,7 @@
   $smarty->display('basicUsingTPL.tpl'); // zobrazení šablony
 
   if(){
-    for()
+    for(eee)
   }
 
  ?>
